@@ -1,0 +1,30 @@
+.page-wrap {
+    width: 1170px;
+    margin: 0 auto;
+   
+}
+
+header{
+   background: #efe9eb
+;}
+
+body{
+    margin: auto;}
+
+li {
+        display: inline-block;
+        padding: 0 55px;
+    }
+    li:first-child {
+        color: #ce3865;
+    }
+    li:hover {
+        color: #ce3865;
+    }
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+

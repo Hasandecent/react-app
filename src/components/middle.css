@@ -1,0 +1,18 @@
+h6{
+    font-size: 1.2em;
+    margin: 0 auto;
+}
+h4{
+    font-size: 2em;
+    color: #ce3865;
+    margin: 0 auto;
+}
+.banner2{
+    background-image: url(../images/glass-vanilla-raspberries-ice-cream.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left:100px ;
+    padding-top: 250px;
+    padding-bottom: 150px;
+    
+}
